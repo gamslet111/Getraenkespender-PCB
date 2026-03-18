@@ -167,5 +167,6 @@ Getraenkespender/
 
 ## Author
 
-**HTL St. Pölten — Electronics & Technical Computer Science**  
+**Kilian Pfeifer**  
+**HTL St. Pölten — Electronics & Technical Computer Science**
 Project: Werstadt / Getränkespender · 2025
