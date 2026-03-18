@@ -1,0 +1,21 @@
+# Altium Designer
+History/
+__Previews/
+Project\ Logs*/
+*.Cam
+*.BomDoc
+*.OutJob
+*.PrjPcbStructure
+*.APR_LIB
+*.apr
+*.LDP
+*.EXTREP
+*.REP
+*.drc
+*.html
+*.txt.bak
+CAMtastic*.Cam
+
+# OS
+.DS_Store
+Thumbs.db
