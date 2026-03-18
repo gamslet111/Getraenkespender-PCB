@@ -7,7 +7,7 @@ Built as part of a school project at HTL St. Pölten.
 
 ## Photos
 
-> 📸 **Photos coming soon** — place your images in `images/photos/` and reference them as:
+> 📸 **Photos coming soon**
 
 | Filename | Description |
 |----------|-------------|
